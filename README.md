@@ -13,7 +13,7 @@ Python es el lenguaje de programación más popular del mundo. Automatiza tareas
 
 ## Instructora
 
-👩‍🏫 **Carli Florid**
+👩‍🏫 **Carli Florida**
 
 ## Contenidos del Curso
 
