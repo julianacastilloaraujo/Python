@@ -21,11 +21,8 @@ Python es el lenguaje de programación más popular del mundo. Automatiza tareas
 - 🌐 Conexión a internet
 - 💻 Computadora con acceso a línea de comandos
 - 🎉 Ganas de aprender
-
 ## Instalación
-
 Para empezar con el curso, asegúrate de tener Python instalado en tu máquina. Puedes descargarlo desde [python.org](https://www.python.org/downloads/).
-
 Una vez instalado, puedes clonar este repositorio y empezar a trabajar en los ejemplos y ejercicios proporcionados.
 
 ```bash
