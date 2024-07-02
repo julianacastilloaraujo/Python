@@ -5,13 +5,9 @@
 Python es el lenguaje de programación más popular del mundo. Automatiza tareas, crea aplicaciones web, analiza datos y más.
 ## Enlace del Curso
 🔗 [Curso de Python BÁSICO en Platzi](https://platzi.com/cursos/python/?notification_id=4750490)
-
 ## Instructora
-
 👩‍🏫 **Carli Florida**
-
 ## Contenidos del Curso
-
 📚 **Módulos del Curso:**
 1. 📝 Introducción a Python
 2. 🧮 Variables y Tipos de Datos
@@ -21,9 +17,7 @@ Python es el lenguaje de programación más popular del mundo. Automatiza tareas
 6. 📦 Módulos y Paquetes
 7. 📈 Introducción a Bibliotecas Populares
 8. 🎯 Proyecto Final
-
 ## Requisitos
-
 - 🌐 Conexión a internet
 - 💻 Computadora con acceso a línea de comandos
 - 🎉 Ganas de aprender
