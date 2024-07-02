@@ -1,14 +1,9 @@
 # 🐍 Curso de Python BÁSICO
-
 ## Descripción
-
 🚀 **NUEVO**  
 📅 Publicado el 29 de junio de 2024
-
 Python es el lenguaje de programación más popular del mundo. Automatiza tareas, crea aplicaciones web, analiza datos y más.
-
 ## Enlace del Curso
-
 🔗 [Curso de Python BÁSICO en Platzi](https://platzi.com/cursos/python/?notification_id=4750490)
 
 ## Instructora
